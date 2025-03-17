@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+yfinance
+duckduckgo-search
+packaging
+ollama
+llama-index
